@@ -1,7 +1,9 @@
 Hello!
 
 _Italic_
+
 __Bold__
+
 ___Bold and Italic___
 # Heading!
 ## Wannable Heading :(
@@ -14,6 +16,7 @@ ___Bold and Italic___
 1. one
 2. three
 3. two
+
 This site uses `github` 
 ```
 Test. test test
