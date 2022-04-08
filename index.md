@@ -6,7 +6,7 @@ ___Bold and Italic___
 # Heading!
 ## Wannable Heading :(
 [About](https://shinyiouyang.github.io/cse15l-lab-reports/about.html)
-![Cat](https://i.natgeofe.com/n/46b07b5e-1264-42e1-ae4b-8a021226e2d0/domestic-cat_thumb_square.jpg)
+![Cat](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX29237278.jpg)
 > Blockquote
 * list
 * listlist
