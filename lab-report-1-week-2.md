@@ -20,15 +20,13 @@ You will be prompted to enter your password. Once you enter your password, you s
 ## Trying Some Commands
 Once you have access to the remote computer, try some commands! 
 
-Here's what I got when I used the `ls` and `cat` commands
-![command 1](lab1/lsCommand.png)
-
-![command 2](lab1/catCommand.png)
+Here's what I got when I used the `cat` commands
+![command 1](lab1/catCommand.png)
 
 ## Moving Files with scp
 To move files to the remote computer, we have to use the `scp` command.
 
-To use the scp command, type `scp _filename_ cs15lsp22avd@ieng6.ucsd.edu:~/` where _filename_ is replaced with the actual filenamd and avd is replaced with your account-specific letters.
+To use the scp command, type `scp _filename_ cs15lsp22avd@ieng6.ucsd.edu:~/` where `_filename_` is replaced with the actual filename and "avd" is replaced with your account-specific letters.
 
 For example, to transfer the `WhereAmI.java` file, type `scp WhereAmI.java cs15lsp22avd@ieng6.ucsd.edu:~/`
 
