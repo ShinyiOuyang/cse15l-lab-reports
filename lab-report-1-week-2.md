@@ -4,7 +4,7 @@ In this lab report, I will be describing how to remotely access your cse 15L acc
 ## Installing VScode
 First, it is highly recommended to install VScode.
 
-Go to https://code.visualstudio.com to install VScode on your computer.
+Go [here](https://code.visualstudio.com) to install VScode on your computer.
 
 Once you have installed VScode, VScode should look like this:
 ![VScode screenshot](lab1/vscode.png)
@@ -20,7 +20,7 @@ You will be prompted to enter your password. Once you enter your password, you s
 ## Trying Some Commands
 Once you have access to the remote computer, try some commands! 
 
-Here's what I got when I used the `cat` commands
+Here's what I got when I used the `cat` command.
 ![command 1](lab1/catCommand.png)
 
 ## Moving Files with scp
