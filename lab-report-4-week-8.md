@@ -6,9 +6,11 @@ https://github.com/ShinyiOuyang/markdown-parser
 https://github.com/kaileywong/markdown-parser
 
 # Tests:
-I got conflicting results on the expected output on snippet 3.
+
+Snippet 1 & 2 expected outputs:
 ![Snippet1&2Expected](lab4/snippet1_2_expected.png)
 
+I got conflicting results on the expected output on snippet 3, but this is what I decided should be the output:
 ![Snippet3Expcted](lab4/snippet3_expected.png)
 
 My implementation of tests on snippets:
