@@ -1,4 +1,4 @@
-# Lab Report 4
+# Lab Report 5
 
 ## How I found Test Results
 
@@ -12,7 +12,7 @@ To find the tests with different results, I ran vimdiff on the result of running
 
 # Test 1
 
-For test 201, my implementation of markdown parser is corret while the provided implementation is wrong.
+For test 201, my implementation of markdown parser is correct while the provided implementation is wrong.
 ![difference1](lab5/vimDiff201.png)
 ![actual1](lab5/actual201.png)
 
@@ -24,7 +24,7 @@ The other implementation does not check the content in between the closing brack
 
 # Test 2
 
-For test 41, my implementation of markdown parser is wrong, while the provided inplementation is right.
+For test 41, my implementation of markdown parser is wrong, while the provided implementation is right.
 
 ![difference2](lab5/vimDiff41.png)
 ![actual2](lab5/actual41.png)
